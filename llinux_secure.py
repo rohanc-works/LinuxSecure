@@ -1,4 +1,3 @@
-```python
 #!/usr/bin/env python3
 import subprocess
 import sys
@@ -70,4 +69,3 @@ if __name__ == "__main__":
     setup_fail2ban()
     enable_auto_updates()
     print("Done")
-```
